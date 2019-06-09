@@ -1,15 +1,17 @@
 # bozoinsights
 
-## Existe relação entre a cobertura de telefonia (2G, 3G e 4G) a penetração de internet e os votos computados aos candidato à Presidência da República em 2018?
+## Existe relaÃ§Ã£o entre a cobertura de telefonia (2G, 3G e 4G) a penetraÃ§Ã£o de internet e os votos computados aos candidato Ã  PresidÃªncia da RepÃºblica em 2018?
 
 Bases:
-* Cobertura por operadora por município
+* Cobertura por operadora por municÃ­pio
 http://www.anatel.gov.br/dados/controle-de-qualidade/controle-telefonia-movel#Cobertura
 
 http://www.anatel.gov.br/setorregulado/component/content/article/115-universalizacao-e-ampliacao-do-acesso/telefonia-movel/423-telefonia-movel-municipios-atendidos
 
 
-* Resultado da eleição presidencial 1 e 2 turnos por município: http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
+* Resultado da eleiÃ§Ã£o presidencial 1 e 2 turnos por municÃ­pio: http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
 
-* Penetração de internet por município: https://www.ibge.gov.br/estatisticas/sociais/populacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html?edicao=10500&t=microdados
+* PenetraÃ§Ã£o de internet por municÃ­pio: https://www.ibge.gov.br/estatisticas/sociais/populacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html?edicao=10500&t=microdados
+
+https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=19937&t=downloads
 
